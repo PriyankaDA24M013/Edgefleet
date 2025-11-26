@@ -1,0 +1,53 @@
+# -----------------------
+# Ignore dataset folders
+# -----------------------
+data/
+data/*
+data/**
+
+# In case dataset is elsewhere
+*.jpg
+*.png
+*.jpeg
+*.bmp
+*.mp4
+*.avi
+
+# Ignore training outputs
+input_videos/
+# results/
+# annotations/*.mp4
+# annotations/*.csv
+
+# Model weights
+
+*.onnx
+*.engine
+*.tflite
+*.pb
+*.pth
+
+# VSCode workspace settings
+.vscode/
+*.code-workspace
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

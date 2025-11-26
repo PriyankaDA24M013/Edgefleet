@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Edgefleet/runs/mlflow/913866756956315980/327d45f74ae74d86a42a30d42bf81862/artifacts
+end_time: 1764180328120
+entry_point_name: ''
+experiment_id: '913866756956315980'
+lifecycle_stage: active
+run_id: 327d45f74ae74d86a42a30d42bf81862
+run_name: train2
+run_uuid: 327d45f74ae74d86a42a30d42bf81862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764180269043
+status: 3
+tags: []
+user_id: HANSITHA
